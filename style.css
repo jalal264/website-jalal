@@ -1,0 +1,68 @@
+
+nav {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-weight: 700;
+}
+
+nav a {
+    color: black;
+    text-decoration: underline;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.inhalt {
+    text-align: center;
+    margin-top: 30px;
+}
+.inhalt h1 {
+    color:black;
+    font-size: 40px;
+}
+.inhalt p {
+    color:black;
+    font-size: 20px;
+}
+
+.profilfoto {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+    top: 150px;
+    right: 700px;
+  }  
+.über-mich h2  {
+    text-align: left;
+    font-size: 20;
+}
+.über-mich  {
+    font-size: 20px;
+    font-weight: 700;
+    text-align:left;
+    color:black;
+    margin-top: 180px;
+  
+}
+
+p {
+     font-weight:bold ;
+     font-size: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dark {
+    background-color: #222;
+    color: white;
+}
